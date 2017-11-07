@@ -1,0 +1,7 @@
+window.open("https:\\www.w3schools.com");
+var myWindow=window.open("", "", "width=200, heigth=100");
+myWindow.moveTo(0,0);
+myWindow.moveTo(100,100);
+myWindow.moveBy(100,100);
+myWindow.resizeBy(100,100);
+myWindow.resizeTo(100,100);
